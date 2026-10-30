@@ -7,3 +7,8 @@ slova = ["slon", "mravenec", "pes", "krokodýl"]
 dla_delky = sorted(slova, key=len)
 
 print("Dle délky:", dla_delky)
+
+'''
+Výstup:
+Dle délky: ['pes', 'slon', 'mravenec', 'krokodýl']
+'''

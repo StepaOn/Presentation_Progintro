@@ -8,3 +8,9 @@ top_skore = sorted(skore_tuple, reverse=True)
 
 print("Původní skóre:", skore_tuple)
 print("Top skóre (list):", top_skore)
+
+'''
+Výstup:
+Původní skóre: (15, 82, 43, 99, 61)
+Top skóre (list): [99, 82, 61, 43, 15]
+'''
